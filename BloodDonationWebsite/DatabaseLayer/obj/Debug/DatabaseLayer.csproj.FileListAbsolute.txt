@@ -1,0 +1,14 @@
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\EntityFramework.dll
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\OnlineBloodDonationModel.cs.dll
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\OnlineBloodDonationModel.Designer.cs.dll
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\EntityFramework.xml
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.AssemblyReference.cache
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+F:\Semesters\7th_Semester\EAD\EAD_Semester_Project\Blood_Donation_Project\Application\BloodDonationWebsite\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

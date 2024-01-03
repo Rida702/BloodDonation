@@ -1,0 +1,725 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BloodDonationApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BloodDonationApp.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\animate.css",
+      "PackagePath": "staticwebassets\\template\\css\\animate.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\bootstrap-social.css",
+      "PackagePath": "staticwebassets\\template\\css\\bootstrap-social.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\less\\layout.less",
+      "PackagePath": "staticwebassets\\template\\css\\less\\layout.less"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\template\\css\\less\\mixins.less"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\less\\reset.less",
+      "PackagePath": "staticwebassets\\template\\css\\less\\reset.less"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\less\\styles.less",
+      "PackagePath": "staticwebassets\\template\\css\\less\\styles.less"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\less\\variables.less",
+      "PackagePath": "staticwebassets\\template\\css\\less\\variables.less"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\template\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\template\\css\\owl.theme.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\site.css",
+      "PackagePath": "staticwebassets\\template\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\styles-rtl.css",
+      "PackagePath": "staticwebassets\\template\\css\\styles-rtl.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\styles.css",
+      "PackagePath": "staticwebassets\\template\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\styles.css.map",
+      "PackagePath": "staticwebassets\\template\\css\\styles.css.map"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\template\\css\\venobox.css"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\template\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\template\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\about_feat_bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\about_feat_bg.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\appointment.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\appointment.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\appointment_female_bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\appointment_female_bg.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog_3.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\blog_thumb_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog_thumb_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\blog_thumb_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog_thumb_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\blog_thumb_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog_thumb_3.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\close.gif",
+      "PackagePath": "staticwebassets\\template\\images\\close.gif"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\counter_bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\counter_bg.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\cta-bg-img.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\cta-bg-img.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\down_arrow.png",
+      "PackagePath": "staticwebassets\\template\\images\\down_arrow.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\event_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\event_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\event_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\event_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\event_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\event_3.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\event_4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\event_4.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\event_single.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\event_single.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\template\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_3.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_4.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_5.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_5.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_6.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_6.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_7.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_7.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\gallery_8.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\gallery_8.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\header-bg.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\highlight_1.png",
+      "PackagePath": "staticwebassets\\template\\images\\highlight_1.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\highlight_2.png",
+      "PackagePath": "staticwebassets\\template\\images\\highlight_2.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\highlight_3.png",
+      "PackagePath": "staticwebassets\\template\\images\\highlight_3.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\highlight_4.png",
+      "PackagePath": "staticwebassets\\template\\images\\highlight_4.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\highlight_5.png",
+      "PackagePath": "staticwebassets\\template\\images\\highlight_5.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\home_1_slider_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\home_1_slider_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\home_1_slider_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\home_1_slider_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\template\\images\\loader.gif"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo-footer.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo-footer.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_1.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_1.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_2.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_2.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_3.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_3.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_3.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_4.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_4.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_4.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_5.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_5.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_5.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_5.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_6.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_6.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_6.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_6.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_7.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_7.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_7.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_7.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_8.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\logo_8.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\logo_8.png",
+      "PackagePath": "staticwebassets\\template\\images\\logo_8.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\next.gif",
+      "PackagePath": "staticwebassets\\template\\images\\next.gif"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\pattern_1.png",
+      "PackagePath": "staticwebassets\\template\\images\\pattern_1.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\preload-circle.png",
+      "PackagePath": "staticwebassets\\template\\images\\preload-circle.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\preload.png",
+      "PackagePath": "staticwebassets\\template\\images\\preload.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\prev.gif",
+      "PackagePath": "staticwebassets\\template\\images\\prev.gif"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\process_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\process_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\process_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\process_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\process_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\process_3.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\process_4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\process_4.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\separator.png",
+      "PackagePath": "staticwebassets\\template\\images\\separator.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\service_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\service_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\team_5.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\team_5.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\team_6.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\team_6.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\team_7.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\team_7.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\team_9.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\team_9.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\team_feat_bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\team_feat_bg.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\testimonial_bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\testimonial_bg.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\testimony_feat_bg.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\testimony_feat_bg.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\testimony_feat_img.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\testimony_feat_img.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\uparr-48-b.png",
+      "PackagePath": "staticwebassets\\template\\images\\uparr-48-b.png"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\user_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\user_1.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\user_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\user_2.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\user_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\user_3.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\images\\user_4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\user_4.jpg"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\custom-scripts.js",
+      "PackagePath": "staticwebassets\\template\\js\\custom-scripts.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\template\\js\\gmaps.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\jquery.backTop.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.backTop.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\jquery.gmap.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.gmap.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\site.js",
+      "PackagePath": "staticwebassets\\template\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\venobox.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\waypoints-sticky.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\waypoints-sticky.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "F:\\Semesters\\7th_Semester\\EAD\\EAD_Semester_Project\\Blood_Donation_Project\\Application\\BloodDonationWebsite\\BloodDonationApp\\wwwroot\\template\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BloodDonationApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BloodDonationApp.props",
+      "PackagePath": "build\\BloodDonationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BloodDonationApp.props",
+      "PackagePath": "buildMultiTargeting\\BloodDonationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BloodDonationApp.props",
+      "PackagePath": "buildTransitive\\BloodDonationApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
